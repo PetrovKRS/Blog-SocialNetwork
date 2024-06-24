@@ -20,9 +20,10 @@
   * Настроены кастомные страницы для ошибок 403 CSRF, 404 и 500 с применением собственных шаблонов.
 
 ### Подготовка проекта к запуску под Linux
+
 * Клонируем репозиторий на пк
   ```
-  git clone git@github.com:PetrovKRS/Blog-Social_network.git
+  git clone git@github.com:PetrovKRS/Blog-SocialNetwork.git
   ```
 * переходим в рабочую папку склонированного проекта
 * разворачиваем виртуальное окружение
@@ -43,6 +44,14 @@
   ```
   python3 manage.py migrate
   ```
+* В папке c бэкендом файл env_example переименовываем в .env и
+  заменяем в нем данные на свои
+  ```
+    # settings
+    SECRET_KEY=django-insecure-https://github.com/PetrovKRS/Blog-SocialNetwork
+    ALLOWED_HOSTS=localhost,127.0.0.1,yourDomain.ru
+    DEBUG=False
+  ```
 * запускаем тестовый сервер
   ```
   python3 manage.py runserver
@@ -52,9 +61,20 @@
   http://127.0.0.1:8000/
   ```
 
-Стек технологий: Python 3.9, Django, HTML, SQLie3.
+
+### <b> Стек технологий: </b>
+
+![Python](https://img.shields.io/badge/-Python_3.9-df?style=for-the-badge&logo=Python&labelColor=yellow&color=blue)
+![Django](https://img.shields.io/badge/-Django-df?style=for-the-badge&logo=Django&labelColor=darkgreen&color=blue)
+![Django](https://img.shields.io/badge/-SQLite-df?style=for-the-badge&logo=SQLite&labelColor=red&color=blue)
+![Django](https://img.shields.io/badge/-HTML-df?style=for-the-badge&logo=&labelColor=red&color=blue)
+![GitHub](https://img.shields.io/badge/-GitHub-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)
+
 
 ## Ознакомительная версия
 [Для ознакомления ...](https://petrovkrs.pythonanywhere.com)
 
-> #### Автор проекта: **[Андрей Петров](https://github.com/PetrovKRS)** 
+***
+### Автор проекта: 
+[![GitHub](https://img.shields.io/badge/-Андрей_Петров-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)](https://github.com/PetrovKRS)
+*** 
