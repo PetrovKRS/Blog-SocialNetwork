@@ -71,9 +71,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)
 
 ***
-## Ознакомительная версия
-[Для ознакомления ...](https://petrovkrs.pythonanywhere.com)
 
+[![BUTTON](https://img.shields.io/badge/-Для_ознакомления-df?style=for-the-badge&logo=&labelColor=black&color=blue)](https://petrovkrs.pythonanywhere.com)
 ***
 ### Автор проекта: 
 [![GitHub](https://img.shields.io/badge/-Андрей_Петров-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)](https://github.com/PetrovKRS)
