@@ -61,7 +61,7 @@
   http://127.0.0.1:8000/
   ```
 
-
+***
 ### <b> Стек технологий: </b>
 
 ![Python](https://img.shields.io/badge/-Python_3.9-df?style=for-the-badge&logo=Python&labelColor=yellow&color=blue)
@@ -70,7 +70,7 @@
 ![Django](https://img.shields.io/badge/-HTML-df?style=for-the-badge&logo=&labelColor=red&color=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)
 
-
+***
 ## Ознакомительная версия
 [Для ознакомления ...](https://petrovkrs.pythonanywhere.com)
 
